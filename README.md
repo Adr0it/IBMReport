@@ -11,5 +11,6 @@ Make sure to update system environment variables. Verify all file paths are corr
 To execute, run "node main.js".
 
 Short Presentation: 
-[ATLAS Final Presentation.pptx](https://github.com/Adr0it/IBMReport/files/15311483/ATLAS.Final.Presentation.pptx)
+[ATLAS Final Presentation](https://docs.google.com/presentation/d/1sURnbr5knghL71Ta6FU2Ub-EKgcPxsVj16ODFiYFmu4/edit?usp=sharing)
+
 
